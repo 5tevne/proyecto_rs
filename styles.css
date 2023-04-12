@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+p{
+    color: #ff7f3f;
+    background-color: #fbdf07;
+}
+h3{
+     color: maroon;
+}
+h4{color:sienna ; }
+#encabezado-seis{
+    color: red;
+}
+#encabezado-uno{
+    color: blue;
+}
+body{background-image: url(https://media.tenor.com/4SILXUy4hswAAAAd/anime-is-life.gif);
+background-size: cover;
+background-repeat: no-repeat;}
+h1,h3,h4,h5,h6{background-color: rgba(0, 0, 0, 0.33);}
